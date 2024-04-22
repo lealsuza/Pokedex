@@ -1,0 +1,137 @@
+@import './base.css';
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+}
+html,body{
+  width: 100%;
+  height: 100%;
+}
+
+a{
+  text-decoration: none;
+}
+
+.normal {
+  color:black !important;
+  background-color: #A8A878 !important;
+  /* Cor neutra para representar Normal */
+}
+
+.fighting {
+  color: white !important;
+  background-color: #C03028 !important;
+  /* Cor de luta para representar Fighting */
+}
+
+.flying {
+  color: white !important;
+  background-color: #A890F0 !important;
+  /* Cor de voo para representar Flying */
+}
+
+.poison {
+  color: white !important;
+  background-color: #A040A0 !important;
+  /* Cor venenosa para representar Poison */
+}
+
+.ground {
+  color: white !important;
+  background-color: #794500 !important;
+  /* Cor de solo para representar Ground */
+}
+
+.rock {
+  background-color: #B8A038 !important;
+  /* Cor de rocha para representar Rock */
+}
+
+.bug {
+  color: white !important;
+  background-color: #A8B820 !important;
+  /* Cor de inseto para representar Bug */
+}
+
+.ghost {
+  color: white !important;
+
+  background-color: #705898!important;
+  /* Cor fantasmagórica para representar Ghost */
+}
+
+.steel {
+  color:black !important;
+  background-color: #B8B8D0!important;
+  /* Cor de aço para representar Steel */
+}
+
+.fire {
+  color: white !important;
+  background-color: #F08030!important;
+  /* Cor de fogo para representar Fire */
+}
+
+.water {
+  color: white !important;
+  background-color: #6890F0!important;
+  /* Cor de água para representar Water */
+}
+
+.grass {
+  color: white !important;
+  background-color: #78C850!important;
+  /* Cor de grama para representar Grass */
+}
+
+.electric {
+  color: #121212;
+  background-color: #F8D030!important;
+  /* Cor elétrica para representar Electric */
+}
+
+.psychic {
+  color:black !important;
+  background-color: #F85888 !important; 
+  /* Cor psíquica para representar Psychic */
+}
+
+.ice {
+  color:black !important;
+  background-color: #98D8D8 !important;
+  /* Cor de gelo para representar Ice */
+}
+
+.dragon {
+  color: white !important;
+  background-color: #7038F8 !important;
+  /* Cor de dragão para representar Dragon */
+}
+
+.dark {
+  color: white !important;
+  background-color: black !important;
+  /* Cor sombria para representar Dark */
+}
+
+.fairy {
+  color: #121212;
+  background-color: #EE99AC !important;
+  /* Cor de fada para representar Fairy */
+}
+
+.unknown {
+  background-color: #68A090 !important;
+  /* Cor desconhecida para representar Unknown */
+}
+
+.shadow {
+  background-color: #5A496E !important; 
+  /* Cor de sombra para representar Shadow */
+}
+
+
+
